@@ -25,7 +25,7 @@ func main(){
 		surfaceArea := 2*l*w + 2*w*h + 2*h*l
 
 		totalArea += smallestSide + surfaceArea
-		ribbon += 2 * (intSlice[0] + intSlice[1]) +  (intSlice[0] * intSlice[1] * intSlice[2])
+		// ribbon += 2 * (intSlice[0] + intSlice[1]) +  (intSlice[0] * intSlice[1] * intSlice[2])
 
 	}
 
